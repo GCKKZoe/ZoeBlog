@@ -2,7 +2,7 @@
 title = 'Crsp_versions'
 date = 2024-09-01T02:16:23+08:00
 draft = false
-categories = Data
+categories = 'Data'
 +++
 
 # WRDS CRSP CIZ and SIZ
